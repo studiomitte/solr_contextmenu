@@ -1,0 +1,34 @@
+{
+    "name": "studiomitte/solr-contextmenu",
+    "type": "typo3-cms-extension",
+    "description": "Remove documents from solr via backend context menu",
+    "authors": [
+        {
+            "name": "Georg Ringer",
+            "role": "Developer"
+        }
+    ],
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "typo3/cms-core": "^10.4 || ^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "StudioMitte\\SolrContextmenu\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "StudioMitte\\SolrContextmenu\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "studiomitte/solr_contextmenu": "self.version",
+        "typo3-ter/solr_contextmenu": "self.version"
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "solr_contextmenu"
+        }
+    }
+}
