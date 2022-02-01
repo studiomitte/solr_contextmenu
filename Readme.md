@@ -1,8 +1,8 @@
-# TYPO3 Extension ´solr_contextmenu`
+# TYPO3 Extension `solr_contextmenu`
 
 This extensions makes it possible to remove a record from the solr index by using the context menu.
 
-Requirements: TYPO3 10/11 and EXT:solr 10/11
+Requirements: TYPO3 10.4/11.5 and EXT:solr 10/11
 
 ## Usage
 
