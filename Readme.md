@@ -11,3 +11,9 @@ Requirements: TYPO3 10.4/11.5 and EXT:solr 10/11
 3. Done
 
 This extension is maintained and developed by [Studio Mitte](https://studiomitte.com/).
+
+## Credits
+
+This extension was created by Georg Ringer for [Studio Mitte, Linz](https://studiomitte.com) with ♥.
+
+[Find more TYPO3 extensions we have developed](https://www.studiomitte.com/loesungen/typo3) that provide additional features for TYPO3 sites. 
